@@ -1,8 +1,8 @@
-<!-- # Study Notion
+ # Study Notion
 
 Study Notion is an ED Tech (Education Technology) web application developed using the MERN stack.
 
-## Note
+## Notes
 
 This project is intended as a learning tool and can be used as a sample project for educational or personal projects.
 
@@ -51,7 +51,7 @@ This project is intended as a learning tool and can be used as a sample project 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/Study-Notion-master.git
+    git clone https://github.com/ankitsharmaa29/Study-Notion.git
     ```
 
 2. Install the required packages.
@@ -76,4 +76,4 @@ This project is intended as a learning tool and can be used as a sample project 
 
 5. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup. -->
+The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup. 
